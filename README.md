@@ -7,3 +7,4 @@ we've used the merge function to integrate the airlines and flights datasets usi
 we've added "Hour" feature representing the hours of the day that will help us in knowing some statistics that will lead us to answer our research questions, also we've added feature called the "Percentage_per_hour" representing the percentage of delay in flights through the hours of the day so that we can visualize it against different features and gain different insights and finally we've added feature called the "Percentage_Per_Month" representing the percentage of delay in flights through the Months of the year so that we can visualize it against different features and gain different insights.
 
 
+
